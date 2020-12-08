@@ -6,7 +6,7 @@
  */
 package br.edu.ifnmg.poo.trabalhofinalpoo.dao;
 
-//import br.edu.ifnmg.poo.controletarefasalpha.entity.Entidade;
+import br.edu.ifnmg.poo.trabalhofinalpoo.entity.Entidade;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
